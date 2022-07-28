@@ -8,6 +8,8 @@
 - **프로그래머스**
   - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 ## Rule
+> **이 Repo를 `Fork`해서 매주 `PR`만 보내주시면 됩니다!**
+
 1. **매주 4문제 상단에 업로드**
    1. (백준) 실버 ~ 골드 3문제
    2. (프로그래머스) 2단계 ~ 3단계 1문제
