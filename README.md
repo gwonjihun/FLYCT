@@ -17,6 +17,8 @@
    1. (백준) {문제 번호}.py
    2. (프로그래머스) {문제 이름}.py
    > **예시)**
+   
+    ![image](https://user-images.githubusercontent.com/83276163/181392564-76c7a1c3-1253-4ff3-aa3c-b1400ea830a6.png)
 
    ---
 5. `Pull Request` 보낼 땐 **5문제를 한번에**!
