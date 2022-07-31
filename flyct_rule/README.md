@@ -1,6 +1,8 @@
 ## Rule
 ### [*GIT을 잘 모른다면, 이 강의를 추천합니다!](https://www.youtube.com/watch?v=1I3hMwQU6GU)
 1. **Repo를 Fork해 주세요!**
+   ![image](https://user-images.githubusercontent.com/83276163/182034384-9244a7ec-7264-4768-8f79-5b1b8e5302e3.png)
+
 2. 폴더명은 `본인이름` 혹은 `닉네임`, **영어**로 작성
    - {주차}Week 폴더 생성하여 코테 문제 생성
    - **예시)** kimchan/1Week/
