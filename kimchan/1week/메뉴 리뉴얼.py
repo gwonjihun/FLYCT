@@ -39,3 +39,4 @@ def solution(orders, course):
                     answer.append(buf)
     answer.sort()
     return answer
+# 이것보다 훨씬 간략하게 코드를 짤 수 있을 것 같은데, 이 문제만 6시간을 풀었더니 머리가 지끈거린다... 나중에 다시 풀어보자..
