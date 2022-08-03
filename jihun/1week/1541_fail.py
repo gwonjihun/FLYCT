@@ -17,6 +17,7 @@
 #input = sys.stdin.readline
 # 여기서 알게된 점 strip method는 문자열 내부의 공백을 제거하는 것이 아니라
 # 문자열 시작과 끝의 공백만을 제거한다.
+# 해당코드는 실패 코드
 while 1:
     inputs = input().replace(" ","")
     inputs = inputs.split("-")
