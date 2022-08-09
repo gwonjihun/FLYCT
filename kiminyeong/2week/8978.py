@@ -42,7 +42,7 @@ for idx, (c, medal) in enumerate(ranked, start=0):
     # 처음 값이 아니고, 이전 순위와 메달 수가 같을 때 Rank Up
     if idx != 0 and ranked[idx-1][1] != medal:
         rank = idx+1
-    # 등수가 K일때
+    # 국가가 K일때
     if c == K:
         print(rank)
         break
