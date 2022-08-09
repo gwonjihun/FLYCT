@@ -39,10 +39,10 @@ for _ in range(N):
 ranked = sorted(medals.items(), key = lambda x: (-x[1][0], -x[1][1], -x[1][2]))
 rank = 1
 for idx, (c, medal) in enumerate(ranked, start=0):
-    # 처음 값이 아니고, 이전 순위와 메달 수가 같을 때 Rank Up
+    # 처음 값이 아니고, 이전 순위와 메달 수가 다를 때 Rank Up (메달 수가 같으면 같은 등수)
     if idx != 0 and ranked[idx-1][1] != medal:
         rank = idx+1
-    # 국가가 K일때
+    # 국가가 K일때 출력
     if c == K:
         print(rank)
         break
