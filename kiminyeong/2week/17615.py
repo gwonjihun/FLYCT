@@ -40,7 +40,7 @@ input = sys.stdin.readline
 N = int(input().rstrip())
 # 볼의 색깔을 나타내는 문자 R 또는 B가 공백 없이 주어짐
 colors = input().rstrip()
-# 파랑, 빨강 공 각각의 개수
+# 파랑, 빨강 공 각각의 개수 (둘 중 더 적은 개수의 볼 옮기기)
 blue = colors.count('B')
 red = colors.count('R')
 # 왼쪽으로 옮기기
