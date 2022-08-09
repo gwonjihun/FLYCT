@@ -38,7 +38,7 @@ for _ in range(N):
 # 금, 은, 동 개수에 따른 정렬
 ranked = sorted(medals.items(), key = lambda x: (-x[1][0], -x[1][1], -x[1][2]))
 rank = 1
-for idx, (c, medal) in enumerate(ranked, start=0):
+for idx, (c, medal) in enumerate(ranked):
     # 처음 값이 아니고, 이전 순위와 메달 수가 다를 때 Rank Up (메달 수가 같으면 같은 등수)
     if idx != 0 and ranked[idx-1][1] != medal:
         rank = idx+1
