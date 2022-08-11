@@ -10,6 +10,7 @@ def solution(orders, course):
         # course_order : 코스의 요리 가지 수
         for ordr in orders:
             for combi in combinations(ordr,cour):
+                print(combi)
                 course_order.append(''.join(sorted(combi)))
         print(str(cour)+"개 코스는: ", course_order)
         #위에서는 각 코스마다 가능한 조합을 배열로 저장
@@ -27,4 +28,4 @@ def solution(orders, course):
         answer.sort()
     return answer
 
-print(solution(["ABCFG", "AC", "CDE", "ACDE", "BCFG", "ACDEH"] ,[2,3,4]))
+print(solution(["XYZ","XWY","WXA"] ,[2,3,4]))
