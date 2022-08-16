@@ -34,7 +34,7 @@ def solution(orders, course):
             # 단어 사전 순서대로 재배열
             sort_word = ''.join(sorted(order, key=str.lower))
             # 단어에 대한 조합(combination) 생성
-            comb = list(combinations(sort, c))
+            comb = list(combinations(sort_word, c))
             # 조합 출력 파싱 => ('A', 'B'), ('A', 'C') 형식을 AB, AC 로 이어붙임
             for m in comb:
                 menus[c].append("".join(m))
