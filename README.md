@@ -19,7 +19,7 @@
 - **프로그래머스**
   - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 ---
-### 2주차 2022-08-08(월) ~ 2022-08-14(일)
+### 2주차 2022-08-08(월) ~ 2022-08-21(일) - *[프로젝트로 인한 1주 연장]*
 - **백준**
   - [8979](https://www.acmicpc.net/problem/8979)
   - [20310](https://www.acmicpc.net/problem/20310)
