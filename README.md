@@ -33,5 +33,5 @@
   - [14502](https://www.acmicpc.net/problem/14502)
   - [1461](https://www.acmicpc.net/problem/1461)
 - **프로그래머스**
-  - [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829)
+  - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
 ---
