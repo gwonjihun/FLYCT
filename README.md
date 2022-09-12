@@ -35,3 +35,11 @@
 - **프로그래머스**
   - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
 ---
+### 5주차 2022-09-12(월) ~ 2022-09-18(일)
+- **백준**
+  - [2621](https://www.acmicpc.net/problem/2621)
+  - [2606](https://www.acmicpc.net/problem/2606)
+  - [10026](https://www.acmicpc.net/problem/10026)
+- **프로그래머스**
+  - [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+---
